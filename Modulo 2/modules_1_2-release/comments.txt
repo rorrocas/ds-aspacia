@@ -1,0 +1,4 @@
+* Diferencia entre un entero y un flotante.
+* Comentar el codigo
+* Documentar funciones
+* return y print
