@@ -22,10 +22,16 @@ $Z=\frac{x-\mu}{\sigma}$
 
 **Recordar 68-95-99.7 $\sigma$ Equivalente a 1-2-3 Z**
 
+### Teorema del limite central
+
+El teorema del limite central indica que si se extraen muestras repetidamente de un tamaño determinado y se calculan sus medias estan tenderan a tener una distribucion normal en torno a la media poblacional y mientras mas muestras son utilizadas esta se aproxima mas a la normal. Asi la distribucion normal de medias tendria una media similar a la media poblacional y una desviacion tipica igual a la desviacion tipica dividida en la raiz cuadrada del tamaño del muestra.
+
+Para sintetizar, si se extraen muestras aleatorias de tamaño n un numero determinado de veces y se calculan sus medias por separado, la distribucion de esta medias se denomina **distribucion muestral de la media**. De esto se desprednde que la distribucion de la variable aleatoria $\median{x}$ tiene asociado una puntuacion **Z** diferente a la variable X:
 
 <p align="center">
-    <img src="https://openstax.org/apps/archive/20230220.155442/resources/694e8db56d7c1744dc673da1bd75f718747aafb0" />
+    $z=\frac{\overline{x}-\mu_x}{(\frac{\mu_x}{\sqrt{n}})}$
 </p>
+
 
 ### Prueba de hipotesis estadistica 
 
