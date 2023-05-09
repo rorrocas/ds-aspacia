@@ -1,6 +1,18 @@
 # ds-aspacia
 Repositorio con actividades y tareas del bootcamp data science de Talento Digital
 
+### Distribucion normal estandar
+
+Es una distribucion 'normal' de valores estandarizados llamados puntuaciones **Z** esta se mide en unidades de la desviacion tipica.
+
+*Ejemplo*: Si tenemos una distribucion normal de media 5 y desviacion tipica de 2 entonces el valor de 11 se encuentra a 3 desviaciones tipicas sobre la media, el calculo es el sgte:
+
+$x=\mu + (z)(\sigma) = 5 +(3)(2) = 11$
+
+La puntuacion Z es igual a tres.
+
+$Z=\frac{x-\mu}{\sigma}$
+
 ### Prueba de hipotesis estadistica 
 
 Es un procedimiento que busca tomar una desicion sobre el valor de verdad de una hipotesis estadistica.
@@ -16,3 +28,40 @@ La variable a analizar es X: peso en gramos de un paquete de galletas de dicha f
 
 - Hipotesis nula: La media de X es de 500: $\mu=500$}
 - Hipotesis alternativa: La media de X es menor que 500: $\mu<500$
+
+**Estimando el valor***
+
+Tomamos ua muestra aleatoria de 100 valores $n=100$ y se toma su peso, asi obtenemos una muestra aleatoria de la variable $X$
+
+$X1, X2, X3..., X100$
+
+Como la media muestral $\overline{X}$ es un buen estimador de la media poblacional $\mu$ se calcula la media de los 100 paquetes para contrastar la hipotesis nula.
+
+- Si obtenemos un valor de $\overline{X}$ muy inferior a 500 es decir una diferencia $\overline{x}-\mu$ muy grande, se rechaza la hipotesis.
+
+- Si obtenemos un valor de $\overline{X}$ muy cercano a 500 es decir una diferencia $\overline{x}-\mu$ pequeña, no hay suficiente evidencia para rechazar la hipotesis nula.
+
+**Abordaje formal**
+
+Para establecer el punto de corte de manera formal se tiene que establecer primero algunos conceptos:
+
+**Variable**
+
+Es una caracteristica de interes de un objeto, sujeto o poblacion.
+
+**Parametro**
+
+En estadistica, es un valor constante asociado a la distribucion de probabilidades de una variable aleatoria. Algunos ejemplos de parametros son media, desviacion estandar, taza de exitos, etc.
+
+**Estimador de parametro**
+
+Es un estadistico (estadistico: variable aleatoria funcion de las observaciones muestrales) que toma **valores cercanos** al verdadero valor del parametro. De los cuales nos interesan:
+
+- Media muestral $\overline{x}$ es un estimador de la media poblacional $\mu$
+- Desvio estandar muestral $s$ es un estimador del desvio estandar poblacional $\sigma$
+- Proporcion muestral $\hat{p}$
+
+**Estadistico de prueba**
+
+Es una variable aleatoria, de distribucion conocida y que vincula a un parametro de interes con un estimador de ese parametro.
+
