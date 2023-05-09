@@ -24,7 +24,7 @@ $Z=\frac{x-\mu}{\sigma}$
 
 
 <p align="center">
-    !["Distribucion normal"]("https://openstax.org/apps/archive/20230220.155442/resources/694e8db56d7c1744dc673da1bd75f718747aafb0")
+    <img src="https://openstax.org/apps/archive/20230220.155442/resources/694e8db56d7c1744dc673da1bd75f718747aafb0" />
 </p>
 
 ### Prueba de hipotesis estadistica 
