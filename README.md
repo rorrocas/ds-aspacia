@@ -8,4 +8,4 @@ Es un procedimiento que busca tomar una desicion sobre el valor de verdad de una
 **Ejemplo**
 
 Supongamos que en una fabrica de galletas el peso impreso dice 500 gr pero en realidad el peso varia de forma aleatoria alrededor de ese peso impreso.
-El fabricante afirma que la media de peso es de $\mu 
+El fabricante afirma que la media de peso es de $\mu M$ 
