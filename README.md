@@ -29,7 +29,8 @@ El teorema del limite central indica que si se extraen muestras repetidamente de
 Para sintetizar, si se extraen muestras aleatorias de tamaño n un numero determinado de veces y se calculan sus medias por separado, la distribucion de esta medias se denomina **distribucion muestral de la media**. De esto se desprednde que la distribucion de la variable aleatoria $\overline{x}$ tiene asociado una puntuacion **Z** diferente a la variable X:
 
 <p align="center">
-    \large$z=\frac{\overline{x}-\mu_x}{(\frac{\mu_x}{\sqrt{n}})}$
+    \large
+    $z=\frac{\overline{x}-\mu_x}{(\frac{\mu_x}{\sqrt{n}})}$
 </p>
 
 
