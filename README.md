@@ -32,9 +32,11 @@ Para sintetizar, si se extraen muestras aleatorias de tamaño n un numero determ
     $\Huge z=\frac{\overline{x}-\mu_x}{(\frac{\mu_x}{\sqrt{n}})}$
 </p>
 
-- $\mu_x es el promedio de X y $\overline{x}$
+- $\mu_x$ es el promedio de X y $\overline{x}$
 
-- $\mu\overline{x}$ = $\frac{\muX}{\sqrt{n}}$ = desviación típica de $\overline{x}$ y se denomina error estándar de la media.
+- $\mu\overline{x}$ = $\frac{\mu X}{\sqrt{n}}$ = desviación típica de $\overline{x}$ y se denomina error estándar de la media.
+
+
 
 ### Prueba de hipotesis estadistica 
 
