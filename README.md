@@ -26,10 +26,10 @@ $Z=\frac{x-\mu}{\sigma}$
 
 El teorema del limite central indica que si se extraen muestras repetidamente de un tamaño determinado y se calculan sus medias estan tenderan a tener una distribucion normal en torno a la media poblacional y mientras mas muestras son utilizadas esta se aproxima mas a la normal. Asi la distribucion normal de medias tendria una media similar a la media poblacional y una desviacion tipica igual a la desviacion tipica dividida en la raiz cuadrada del tamaño del muestra.
 
-Para sintetizar, si se extraen muestras aleatorias de tamaño n un numero determinado de veces y se calculan sus medias por separado, la distribucion de esta medias se denomina **distribucion muestral de la media**. De esto se desprednde que la distribucion de la variable aleatoria $\median{x}$ tiene asociado una puntuacion **Z** diferente a la variable X:
+Para sintetizar, si se extraen muestras aleatorias de tamaño n un numero determinado de veces y se calculan sus medias por separado, la distribucion de esta medias se denomina **distribucion muestral de la media**. De esto se desprednde que la distribucion de la variable aleatoria $\overline{x}$ tiene asociado una puntuacion **Z** diferente a la variable X:
 
 <p align="center">
-    $z=\frac{\overline{x}-\mu_x}{(\frac{\mu_x}{\sqrt{n}})}$
+    \large$z=\frac{\overline{x}-\mu_x}{(\frac{\mu_x}{\sqrt{n}})}$
 </p>
 
 
