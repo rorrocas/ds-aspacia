@@ -13,6 +13,20 @@ La puntuacion Z es igual a tres.
 
 $Z=\frac{x-\mu}{\sigma}$
 
+#### Regla empirica de la distribucion normal
+**Para una destribucion normal**
+
+- Aproximadamente el 68% de los valores de x se situan entre $-1\sigma$ y $+1\sigma$ de la media $\mu$.
+- Aproximadamente el 95% de los valores de x se situan entre $-2\sigma$ y $+2\sigma$ de la media $\mu$.
+- Aproximadamente el 99.7% de los valores de x se situan entre $-3\sigma$ y $+3\sigma$ de la media $\mu$.
+
+**Recordar 68-95-99.7 $\sigma$ Equivalente a 1-2-3 Z**
+
+
+<p align="center">
+    <img src="https://openstax.org/apps/archive/20230220.155442/resources/694e8db56d7c1744dc673da1bd75f718747aafb0"/>
+</p>
+
 ### Prueba de hipotesis estadistica 
 
 Es un procedimiento que busca tomar una desicion sobre el valor de verdad de una hipotesis estadistica.
