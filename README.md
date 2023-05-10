@@ -14,5 +14,5 @@ La variable a analizar es X: peso en gramos de un paquete de galletas de dicha f
 
 **La hipotesis**
 
-- Hipotesis nula: La media de X es de 500: $\mu=500$}
+- Hipotesis nula: La media de X es de 500: $\mu=500$
 - Hipotesis alternativa: La media de X es menor que 500: $\mu<500$
