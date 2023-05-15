@@ -1,0 +1,311 @@
+Estado,Edad,Ratio.Pago,Salario,Dias.trabajados,Ausencias,Sexo,Estado.Civil,Departamento,Posicion,Desempeño
+0,30,28.5,4167.066666666667,3317,1,Female,2,Admin Offices,Accountant I,Fully Meets
+0,34,23,6962.466666666666,1420,17,Male,1,Admin Offices,Accountant I,Fully Meets
+0,31,29,4330.333333333333,1154,3,Male,4,Admin Offices,Accountant I,Fully Meets
+0,32,21.5,4332.733333333334,58,15,Female,2,Admin Offices,Administrative Assistant,N/A- too early to review
+0,30,16.56,3388.3333333333335,940,2,Female,4,Admin Offices,Administrative Assistant,N/A- too early to review
+1,30,20.5,3837.866666666667,730,15,Female,2,Admin Offices,Administrative Assistant,Fully Meets
+0,33,55,6377.333333333333,691,19,Male,2,Admin Offices,Shared Services Manager,Fully Meets
+1,33,55,3957.6666666666665,1636,19,Male,2,Admin Offices,Shared Services Manager,Fully Meets
+0,31,34.95,3189.133333333333,1014,4,Female,2,Admin Offices,Sr. Accountant,90-day meets
+0,39,34.95,3345.2,3247,16,Female,2,Admin Offices,Sr. Accountant,Fully Meets
+0,63,80,3644.6666666666665,1973,12,Female,2,Executive Office,President & CEO,Fully Meets
+0,38,65,3147.4,2787,15,Female,4,IT/IS,CIO,Exceptional
+1,32,43,6155.2,432,9,Female,4,IT/IS,Database Administrator,Fully Meets
+1,46,48.5,3913.9333333333334,27,7,Female,4,IT/IS,Database Administrator,Fully Meets
+1,31,40.1,3500.3333333333335,6,1,Male,2,IT/IS,Database Administrator,N/A- too early to review
+0,34,34,3855.6,972,20,Female,4,IT/IS,Database Administrator,N/A- too early to review
+1,31,40,4675.4,1056,16,Female,2,IT/IS,Database Administrator,90-day meets
+0,29,35.5,3935.0666666666666,1112,12,Male,1,IT/IS,Database Administrator,Exceptional
+1,33,41,7333.333333333333,517,8,Male,2,IT/IS,Database Administrator,Fully Meets
+0,33,42.75,3550,1112,13,Female,2,IT/IS,Database Administrator,Exceptional
+0,36,39.55,3402.9333333333334,1014,13,Female,2,IT/IS,Database Administrator,Fully Meets
+0,31,42.2,4327.933333333333,972,2,Male,2,IT/IS,Database Administrator,N/A- too early to review
+1,30,45,4194,299,19,Male,1,IT/IS,Database Administrator,90-day meets
+0,48,30.2,4429.4,1056,3,Male,2,IT/IS,Database Administrator,90-day meets
+0,39,31.4,3854.3333333333335,972,5,Female,4,IT/IS,Database Administrator,90-day meets
+0,37,65,6907.533333333334,2417,2,Male,4,IT/IS,IT Director,Exceptional
+0,45,62,7091.133333333333,1771,4,Male,4,IT/IS,IT Manager - DB,Fully Meets
+1,54,21,4954.133333333333,1395,14,Male,1,IT/IS,IT Manager - DB,Fully Meets
+0,31,63,3566.133333333333,2111,6,Male,2,IT/IS,IT Manager - Infra,Needs Improvement
+0,46.99999999999999,64,4200,1421,14,Male,4,IT/IS,IT Manager - Support,Exceeds
+0,32,28.99,4352.533333333334,1908,9,Male,4,IT/IS,IT Support,Fully Meets
+0,49,31.4,4291.666666666667,2766,17,Female,4,IT/IS,IT Support,Fully Meets
+0,29,26,4955.066666666667,2501,19,Female,4,IT/IS,IT Support,Exceeds
+0,45,27.49,4250.866666666667,2361,3,Female,2,IT/IS,IT Support,Fully Meets
+0,30,45,4144.133333333333,1056,15,Male,1,IT/IS,Network Engineer,90-day meets
+0,28,42,5179.466666666666,972,4,Male,2,IT/IS,Network Engineer,N/A- too early to review
+0,29,37,4842.666666666667,1056,14,Female,2,IT/IS,Network Engineer,90-day meets
+0,37,39,6226.4,1056,3,Female,3,IT/IS,Network Engineer,Fully Meets
+0,30,43,3523.0666666666666,972,14,Male,4,IT/IS,Network Engineer,N/A- too early to review
+0,39,27,6668.733333333334,1014,7,Female,2,IT/IS,Network Engineer,Fully Meets
+0,37,47,4790.666666666667,1153,7,Female,2,IT/IS,Network Engineer,Fully Meets
+1,30,28,4110.4,127,11,Male,2,IT/IS,Network Engineer,Fully Meets
+0,49,49.1,7395.266666666666,972,8,Male,2,IT/IS,Network Engineer,N/A- too early to review
+1,43,62,3615.8,444,11,Male,2,IT/IS,Sr. DBA,Fully Meets
+1,31,61.3,4025.3333333333335,514,4,Female,4,IT/IS,Sr. DBA,N/A- too early to review
+1,53,58.2,4453.866666666667,732,17,Male,4,IT/IS,Sr. DBA,Fully Meets
+1,45,58.5,4319.066666666667,309,3,Female,4,IT/IS,Sr. DBA,90-day meets
+1,66,54.1,4321.066666666667,1112,3,Female,2,IT/IS,Sr. Network Engineer,Fully Meets
+1,32,56.2,4578.533333333334,1112,2,Male,2,IT/IS,Sr. Network Engineer,Fully Meets
+1,35,53.8,4271.066666666667,514,9,Male,2,IT/IS,Sr. Network Engineer,N/A- too early to review
+0,51.99999999999999,53,3957.9333333333334,1112,6,Male,4,IT/IS,Sr. Network Engineer,90-day meets
+0,40,55.2,3358.2,972,5,Female,5,IT/IS,Sr. Network Engineer,N/A- too early to review
+0,35,60,4207.2,3247,3,Female,4,Production,Director of Operations,Exceeds
+0,49,54.5,3942.9333333333334,2309,16,Male,1,Production,Production Manager,Fully Meets
+1,48,50.5,4536.733333333334,311,3,Male,4,Production,Production Manager,Fully Meets
+0,34,55,11366.666666666666,668,15,Male,4,Production,Production Manager,Exceeds
+0,44,51,4225.4,1165,6,Female,4,Production,Production Manager,Fully Meets
+0,36,54,5570.133333333333,908,2,Male,1,Production,Production Manager,Fully Meets
+1,45,48.5,3743.266666666667,1797,15,Male,2,Production,Production Manager,Fully Meets
+1,41,42,6155.266666666666,581,5,Male,2,Production,Production Manager,Needs Improvement
+0,36,55,4381.933333333333,1518,8,Female,2,Production,Production Manager,Exceeds
+0,36,53,5668.533333333334,1928,19,Male,4,Production,Production Manager,Fully Meets
+1,41,38.5,3838.866666666667,2032,1,Female,2,Production,Production Manager,Fully Meets
+0,41.99999999999999,52,3752.9333333333334,1881,6,Female,2,Production,Production Manager,Fully Meets
+0,41.99999999999999,53,3799.4,2686,2,Male,1,Production,Production Manager,Needs Improvement
+0,40,55,3714.8,3244,14,Female,2,Production,Production Manager,Fully Meets
+1,62,33.5,6746.6,98,8,Female,2,Production,Production Manager,Fully Meets
+0,34,20,4104.533333333334,2336,5,Male,4,Production,Production Technician I,Exceeds
+0,29,21,3885,3611,1,Female,2,Production,Production Technician I,Fully Meets
+1,28,16,3545.9333333333334,57,9,Female,1,Production,Production Technician I,N/A- too early to review
+0,41,23,6454.666666666667,2148,15,Female,4,Production,Production Technician I,Exceptional
+0,35,22,3417.266666666667,1518,1,Male,5,Production,Production Technician I,N/A- too early to review
+1,48,22,3948.733333333333,3065,17,Female,4,Production,Production Technician I,Fully Meets
+1,44,17,4105.6,2,6,Female,2,Production,Production Technician I,N/A- too early to review
+1,44,22,3089,170,15,Male,2,Production,Production Technician I,90-day meets
+0,34,16.76,4708.066666666667,2106,16,Male,4,Production,Production Technician I,Fully Meets
+1,40,18,9259.2,194,4,Male,1,Production,Production Technician I,Fully Meets
+0,46.99999999999999,22,4949.4,2428,14,Female,4,Production,Production Technician I,Fully Meets
+1,39,17,5012.533333333334,1602,4,Male,4,Production,Production Technician I,Fully Meets
+0,46.99999999999999,16,4167.6,2064,6,Male,4,Production,Production Technician I,Fully Meets
+0,59,22,4004.6666666666665,1560,7,Female,1,Production,Production Technician I,Fully Meets
+0,28,16,3259.2,1238,8,Female,2,Production,Production Technician I,Exceeds
+1,27,20,3619,439,3,Female,2,Production,Production Technician I,Fully Meets
+1,48,20,3789.8,1476,5,Female,3,Production,Production Technician I,Fully Meets
+0,35,20,4022.6666666666665,1336,16,Male,4,Production,Production Technician I,Fully Meets
+0,67,16,3941.6,1154,19,Female,4,Production,Production Technician I,Fully Meets
+0,39,19.5,6618.666666666667,1294,19,Female,4,Production,Production Technician I,Fully Meets
+0,34,22,4785.066666666667,1602,17,Male,4,Production,Production Technician I,Fully Meets
+1,34,21,4393.466666666666,1602,7,Female,4,Production,Production Technician I,90-day meets
+0,30,22,3849.866666666667,2246,16,Female,4,Production,Production Technician I,Fully Meets
+1,37,24.75,4270.466666666666,508,15,Male,2,Production,Production Technician I,Exceeds
+0,40,15,3557.733333333333,1602,2,Male,4,Production,Production Technician I,Fully Meets
+1,38,15,3902,440,19,Male,4,Production,Production Technician I,Needs Improvement
+0,41,15.75,4840.6,1056,20,Female,2,Production,Production Technician I,90-day meets
+1,31,19.75,3731,508,6,Female,4,Production,Production Technician I,N/A- too early to review
+0,39,15,4679.133333333333,1973,7,Female,2,Production,Production Technician I,Fully Meets
+1,40,23.5,11866.666666666666,1484,15,Male,2,Production,Production Technician I,Fully Meets
+0,51,20,6623.4,1238,3,Male,2,Production,Production Technician I,PIP
+0,35,21,4483.4,1294,7,Male,4,Production,Production Technician I,Fully Meets
+0,39,22,4380.466666666666,1784,1,Female,2,Production,Production Technician I,Needs Improvement
+0,31,16.75,3483.266666666667,2064,5,Female,4,Production,Production Technician I,Fully Meets
+1,25.999999999999996,17,3544.733333333333,794,12,Female,2,Production,Production Technician I,Fully Meets
+0,44,21.25,3422.4666666666667,1112,19,Male,4,Production,Production Technician I,Fully Meets
+0,39,21,3433.6666666666665,1336,2,Male,2,Production,Production Technician I,90-day meets
+1,34,17,3958,908,7,Male,4,Production,Production Technician I,Needs Improvement
+1,29,18,3662.2,8,15,Female,4,Production,Production Technician I,N/A- too early to review
+1,63,20,3854.3333333333335,922,3,Female,2,Production,Production Technician I,Fully Meets
+0,28,18,4103.666666666667,930,20,Male,2,Production,Production Technician I,N/A- too early to review
+0,31,23,7653.333333333333,2106,10,Female,4,Production,Production Technician I,Fully Meets
+0,37,24,4978.6,2148,20,Female,2,Production,Production Technician I,Fully Meets
+0,32,19,3534.5333333333333,972,7,Male,4,Production,Production Technician I,N/A- too early to review
+0,38,18,3992.8,1602,1,Male,4,Production,Production Technician I,Fully Meets
+0,34,24,4593.2,2386,10,Female,4,Production,Production Technician I,Fully Meets
+0,27,19,4082.8,972,11,Female,2,Production,Production Technician I,N/A- too early to review
+1,48,22,4455,8,20,Female,1,Production,Production Technician I,N/A- too early to review
+1,43,15,3219,1179,2,Male,2,Production,Production Technician I,Needs Improvement
+0,38,16,4409.933333333333,1154,1,Female,4,Production,Production Technician I,Exceeds
+0,25,17,3283.733333333333,1476,3,Female,4,Production,Production Technician I,Fully Meets
+0,48,16,4197.133333333333,2330,2,Male,1,Production,Production Technician I,Exceeds
+0,39,15,4254.2,1973,17,Male,2,Production,Production Technician I,Fully Meets
+1,43,24,6601.333333333333,1560,8,Female,2,Production,Production Technician I,Fully Meets
+1,35,14,4780.466666666666,1055,20,Female,1,Production,Production Technician I,Fully Meets
+0,41,24,3655.2,2190,13,Female,2,Production,Production Technician I,Fully Meets
+0,35,21,4283.066666666667,2022,20,Male,2,Production,Production Technician I,Fully Meets
+1,65,19.75,3478.4666666666667,1436,8,Female,4,Production,Production Technician I,Fully Meets
+0,44,20,4137.666666666667,1294,5,Female,2,Production,Production Technician I,Exceeds
+0,34,19,3133.2,1931,1,Male,4,Production,Production Technician I,90-day meets
+0,27,16,4539.933333333333,1560,15,Female,4,Production,Production Technician I,Fully Meets
+0,45,20,4703,1847,9,Female,4,Production,Production Technician I,Fully Meets
+0,51.99999999999999,21,4231.866666666667,1518,16,Female,1,Production,Production Technician I,Fully Meets
+0,54,19,6533.266666666666,1420,4,Female,3,Production,Production Technician I,Fully Meets
+1,58,17,12000,1635,19,Male,2,Production,Production Technician I,Exceeds
+1,32,21,3328,1908,6,Female,2,Production,Production Technician I,90-day meets
+0,41.99999999999999,19,3695,1518,4,Male,4,Production,Production Technician I,Fully Meets
+1,44,22,4622.666666666667,1347,4,Female,2,Production,Production Technician I,90-day meets
+1,46.99999999999999,24,4333,105,6,Female,2,Production,Production Technician I,Fully Meets
+0,40,14,4545.466666666666,1378,18,Male,4,Production,Production Technician I,Fully Meets
+0,38,21,5538.8,2512,4,Male,2,Production,Production Technician I,Fully Meets
+0,31,17,3460.5333333333333,1966,14,Male,2,Production,Production Technician I,Fully Meets
+1,39,19,4082.8,693,7,Female,4,Production,Production Technician I,Fully Meets
+1,36,15,3004.6,164,7,Male,4,Production,Production Technician I,90-day meets
+1,37,15.25,4048.266666666667,83,11,Female,2,Production,Production Technician I,N/A- too early to review
+1,41.99999999999999,20,4029.0666666666666,1014,9,Female,2,Production,Production Technician I,90-day meets
+1,45,19,3122.4666666666667,1468,9,Female,4,Production,Production Technician I,Exceeds
+1,45,15,7046.666666666667,2,2,Male,5,Production,Production Technician I,N/A- too early to review
+0,31,17,4221.466666666666,1420,1,Female,4,Production,Production Technician I,Fully Meets
+0,43,23,4076.9333333333334,1476,4,Female,2,Production,Production Technician I,Fully Meets
+0,40,20,4599.933333333333,2371,2,Female,2,Production,Production Technician I,90-day meets
+0,31,24,3365.4666666666667,1784,10,Female,2,Production,Production Technician I,Fully Meets
+1,50,14,4354,1318,13,Female,4,Production,Production Technician I,Fully Meets
+0,41,20,16666.666666666668,972,10,Female,4,Production,Production Technician I,N/A- too early to review
+0,33,15,3600.3333333333335,1700,16,Female,1,Production,Production Technician I,Fully Meets
+1,29,18,3028.866666666667,921,6,Male,4,Production,Production Technician I,Fully Meets
+1,35,22,3110.266666666667,1150,3,Male,2,Production,Production Technician I,Fully Meets
+1,41,21,4264.866666666667,1294,17,Male,2,Production,Production Technician I,Fully Meets
+0,51,15,4755.933333333333,1700,20,Female,3,Production,Production Technician I,Exceeds
+0,33,19,6213.733333333334,1602,7,Female,4,Production,Production Technician I,Fully Meets
+1,37,18.5,5517.2,762,9,Female,4,Production,Production Technician I,PIP
+0,41,16,4404.933333333333,1518,20,Male,2,Production,Production Technician I,Exceeds
+0,38,22,3074.6666666666665,1378,13,Male,4,Production,Production Technician I,Needs Improvement
+1,39,18,4301.333333333333,1070,3,Female,2,Production,Production Technician I,Fully Meets
+1,30,24,4130.8,718,20,Male,4,Production,Production Technician I,Needs Improvement
+1,31,22,5438.933333333333,1623,2,Female,4,Production,Production Technician I,Fully Meets
+0,44,17,4245.066666666667,2771,17,Female,2,Production,Production Technician I,Fully Meets
+1,30,18,6203.066666666667,514,20,Male,2,Production,Production Technician I,Fully Meets
+0,36,17,4315.866666666667,3674,10,Male,4,Production,Production Technician I,Fully Meets
+1,33,19,4697.866666666667,19,16,Female,1,Production,Production Technician I,N/A- too early to review
+0,56,16,5194.333333333333,1420,11,Male,4,Production,Production Technician I,Fully Meets
+1,46.99999999999999,16,3508.266666666667,267,16,Female,1,Production,Production Technician I,Fully Meets
+1,33,21,4230,194,7,Male,1,Production,Production Technician I,Fully Meets
+1,35,20,3451.8,1705,14,Male,1,Production,Production Technician I,Fully Meets
+0,45,22,4482.466666666666,2190,15,Female,2,Production,Production Technician I,Exceeds
+1,44,24,4888.666666666667,1842,19,Male,2,Production,Production Technician I,Fully Meets
+1,33,16,3470.4666666666667,1954,6,Female,2,Production,Production Technician I,Needs Improvement
+0,33,17,3162.266666666667,1602,17,Male,5,Production,Production Technician I,Exceptional
+0,43,17,3519.2,1420,18,Female,3,Production,Production Technician I,Fully Meets
+1,31,18,3026.3333333333335,497,14,Male,4,Production,Production Technician I,Fully Meets
+1,50,20,4159,510,4,Female,4,Production,Production Technician I,N/A- too early to review
+1,43,21,4560.466666666666,571,16,Male,4,Production,Production Technician I,Fully Meets
+0,29,21,4089.9333333333334,1154,11,Female,2,Production,Production Technician I,Fully Meets
+1,43,15.2,7045.866666666667,1518,14,Female,4,Production,Production Technician I,Fully Meets
+0,32,15,3608.8,1560,8,Female,2,Production,Production Technician I,Fully Meets
+0,53,24.5,3687.6666666666665,1476,16,Female,4,Production,Production Technician I,Fully Meets
+0,49,16,4187.333333333333,2106,20,Female,2,Production,Production Technician I,PIP
+1,45,21,4219.4,777,7,Female,1,Production,Production Technician I,Exceeds
+0,35,14,4177.266666666666,2512,17,Female,1,Production,Production Technician I,Fully Meets
+0,33,22,3712.5333333333333,1378,10,Male,2,Production,Production Technician I,Fully Meets
+0,35,19,5577.8,1056,2,Male,2,Production,Production Technician I,90-day meets
+0,49,14,3720,2022,6,Female,4,Production,Production Technician I,Fully Meets
+1,43,15,3880.4666666666667,1435,14,Female,2,Production,Production Technician I,Fully Meets
+1,53,20,10466.666666666666,62,13,Female,4,Production,Production Technician I,N/A- too early to review
+1,34,20,4830.666666666667,124,1,Female,1,Production,Production Technician I,90-day meets
+0,51,24,4807.066666666667,1742,12,Female,1,Production,Production Technician I,Fully Meets
+0,35,22,3506.6,1378,6,Female,4,Production,Production Technician I,N/A- too early to review
+1,31,19,4228.666666666667,1271,18,Male,1,Production,Production Technician I,Exceeds
+1,32,21,4961.133333333333,1596,11,Female,2,Production,Production Technician I,Exceeds
+1,33,20,3838.3333333333335,875,13,Female,4,Production,Production Technician I,N/A- too early to review
+1,37,15,5861.4,1114,17,Female,4,Production,Production Technician I,Needs Improvement
+1,31,23,3364.6666666666665,125,19,Male,4,Production,Production Technician I,90-day meets
+1,51.99999999999999,21,3110.9333333333334,1575,10,Male,2,Production,Production Technician I,Fully Meets
+1,48,16,3233,1265,11,Female,4,Production,Production Technician I,Fully Meets
+1,36,22,3532.266666666667,2583,12,Female,4,Production,Production Technician I,PIP
+0,39,15,4246.333333333333,1154,2,Female,5,Production,Production Technician I,Fully Meets
+1,29,29,4137.4,447,4,Female,2,Production,Production Technician II,90-day meets
+1,51.99999999999999,27,4449.2,493,5,Female,2,Production,Production Technician II,Exceeds
+0,27,27,3511.6,2428,3,Female,4,Production,Production Technician II,Needs Improvement
+1,51,26,4797.733333333334,1180,17,Female,4,Production,Production Technician II,90-day meets
+0,34,22,4203.4,1154,1,Male,4,Production,Production Technician II,Fully Meets
+0,38,25,3160.9333333333334,2092,13,Female,4,Production,Production Technician II,Fully Meets
+0,40,26,3537.3333333333335,2428,6,Male,2,Production,Production Technician II,Fully Meets
+1,36,25,4588.6,602,18,Female,2,Production,Production Technician II,90-day meets
+1,39,26,4234.333333333333,392,7,Male,2,Production,Production Technician II,Fully Meets
+0,38,25,7265.8,2211,13,Male,4,Production,Production Technician II,90-day meets
+1,67,29,6206.2,1675,19,Female,3,Production,Production Technician II,Fully Meets
+0,28,24,3570.9333333333334,1238,15,Female,3,Production,Production Technician II,PIP
+0,39,27,4018,1238,2,Female,2,Production,Production Technician II,Fully Meets
+0,30,24,3066.5333333333333,1378,5,Female,4,Production,Production Technician II,Fully Meets
+1,36,29,3863.6,770,12,Male,4,Production,Production Technician II,Fully Meets
+1,34,24,4977.933333333333,280,6,Female,2,Production,Production Technician II,Fully Meets
+1,53,29,4948.4,399,14,Male,2,Production,Production Technician II,PIP
+1,32,24.25,6236.933333333333,1294,16,Female,2,Production,Production Technician II,Fully Meets
+1,34,27,4314.933333333333,1518,13,Female,3,Production,Production Technician II,Fully Meets
+0,29,24,3133.4,1476,15,Male,4,Production,Production Technician II,Fully Meets
+1,45,24,4122.933333333333,770,9,Female,4,Production,Production Technician II,Fully Meets
+1,34,28,3119.9333333333334,236,14,Female,2,Production,Production Technician II,Fully Meets
+1,34,25,3964.8,538,14,Female,4,Production,Production Technician II,N/A- too early to review
+1,25.999999999999996,28,3095.3333333333335,905,16,Female,3,Production,Production Technician II,N/A- too early to review
+1,41,23,5557.533333333334,770,4,Female,1,Production,Production Technician II,Fully Meets
+0,31,22.5,6394.666666666667,2336,10,Female,1,Production,Production Technician II,Exceeds
+0,48,25,4115.266666666666,1238,19,Female,4,Production,Production Technician II,Exceptional
+1,38,22,4120.6,448,4,Female,1,Production,Production Technician II,Fully Meets
+1,34,28,3007.6666666666665,378,11,Male,2,Production,Production Technician II,Fully Meets
+1,39,22,3115.866666666667,1602,16,Male,2,Production,Production Technician II,Fully Meets
+1,41,24,4331.4,69,10,Female,5,Production,Production Technician II,N/A- too early to review
+0,36,26.1,3705.2,1560,13,Female,4,Production,Production Technician II,Exceeds
+1,41,23,3361.866666666667,564,11,Female,2,Production,Production Technician II,N/A- too early to review
+1,31,23,4094.8,45,16,Female,2,Production,Production Technician II,N/A- too early to review
+0,31,26,4223.533333333334,972,4,Female,4,Production,Production Technician II,N/A- too early to review
+1,32,25,5992.2,1116,15,Male,4,Production,Production Technician II,PIP
+0,25,27,8000,2211,12,Male,2,Production,Production Technician II,Fully Meets
+0,48,25,10019.333333333334,1658,17,Female,4,Production,Production Technician II,Exceptional
+1,41,26,4041.8,2148,8,Male,4,Production,Production Technician II,Fully Meets
+0,43,29,3545.3333333333335,1658,4,Male,3,Production,Production Technician II,Fully Meets
+0,32,26.39,9394.666666666666,1112,13,Female,4,Production,Production Technician II,Fully Meets
+1,66,25,9933.266666666666,462,8,Female,2,Production,Production Technician II,90-day meets
+1,28,28,5747.6,72,2,Female,2,Production,Production Technician II,N/A- too early to review
+1,31,29,3183.3333333333335,264,4,Female,2,Production,Production Technician II,Exceeds
+0,39,26,3095.2,2064,7,Female,2,Production,Production Technician II,Fully Meets
+1,36,26,3865,26,13,Female,1,Production,Production Technician II,N/A- too early to review
+1,45,22,5901.8,218,2,Male,2,Production,Production Technician II,Fully Meets
+0,32,29,3743.133333333333,2645,2,Male,2,Production,Production Technician II,Fully Meets
+1,30,23,3394.866666666667,1990,14,Female,4,Production,Production Technician II,Fully Meets
+0,54,22,3383.3333333333335,1154,7,Male,4,Production,Production Technician II,Exceeds
+1,65,28.75,3472.4666666666667,419,15,Female,2,Production,Production Technician II,Fully Meets
+1,41.99999999999999,23,5855.066666666667,1162,16,Male,5,Production,Production Technician II,Fully Meets
+1,33,22,3461.3333333333335,539,2,Female,4,Production,Production Technician II,Fully Meets
+0,41.99999999999999,22,4258.533333333334,1196,20,Male,4,Production,Production Technician II,Fully Meets
+1,59,29,4043.733333333333,1140,4,Male,4,Production,Production Technician II,Exceeds
+0,33,22,4866.133333333333,1154,16,Female,4,Production,Production Technician II,Fully Meets
+0,33,24.25,3666.6666666666665,1238,17,Male,4,Production,Production Technician II,Fully Meets
+0,41.99999999999999,55,3929.266666666667,1154,16,Male,2,Sales,Area Sales Manager,Fully Meets
+1,54,55,4439.533333333334,1083,19,Female,2,Sales,Area Sales Manager,Fully Meets
+0,55,55,5837.666666666667,1196,13,Female,4,Sales,Area Sales Manager,Fully Meets
+0,29,55,4268.066666666667,2512,20,Female,4,Sales,Area Sales Manager,Exceeds
+0,31,55,4380.933333333333,2106,15,Female,4,Sales,Area Sales Manager,PIP
+0,29,56,4161.666666666667,1196,16,Male,2,Sales,Area Sales Manager,Fully Meets
+0,54,55,3197.4,2273,9,Male,4,Sales,Area Sales Manager,Fully Meets
+0,49,55.5,3884.866666666667,2456,5,Male,4,Sales,Area Sales Manager,Fully Meets
+1,46,55,4200.2,425,9,Female,5,Sales,Area Sales Manager,Fully Meets
+0,28,55,4090.3333333333335,1014,4,Female,4,Sales,Area Sales Manager,90-day meets
+0,63,55.5,4008,1294,18,Male,2,Sales,Area Sales Manager,Fully Meets
+1,49,55,4245.466666666666,1334,12,Male,4,Sales,Area Sales Manager,Fully Meets
+0,44,56,4201.666666666667,1294,10,Male,2,Sales,Area Sales Manager,PIP
+0,38,55,3949.2,1560,13,Male,4,Sales,Area Sales Manager,Fully Meets
+0,29,55,6199.266666666666,2036,1,Male,3,Sales,Area Sales Manager,Fully Meets
+0,46.99999999999999,56,6006.666666666667,2022,14,Male,4,Sales,Area Sales Manager,Fully Meets
+1,33,55,4050.266666666667,508,11,Male,2,Sales,Area Sales Manager,N/A- too early to review
+0,41.99999999999999,55,4813.466666666666,1154,3,Male,4,Sales,Area Sales Manager,Needs Improvement
+0,29,55,3891.3333333333335,1602,18,Female,4,Sales,Area Sales Manager,Fully Meets
+0,28,57,3227.5333333333333,1518,1,Female,4,Sales,Area Sales Manager,Fully Meets
+0,36,55,4478.4,1056,15,Male,4,Sales,Area Sales Manager,90-day meets
+0,29,55,3755.9333333333334,2148,4,Female,2,Sales,Area Sales Manager,Fully Meets
+0,50,55,4293.133333333333,4339,6,Male,3,Sales,Area Sales Manager,Exceeds
+0,29,54,4201.666666666667,2617,18,Female,2,Sales,Area Sales Manager,Fully Meets
+0,53,55,5018.733333333334,1154,11,Female,4,Sales,Area Sales Manager,Fully Meets
+0,27,55,6694.4,2336,9,Female,2,Sales,Area Sales Manager,Fully Meets
+0,28,56,4987.533333333334,2092,5,Male,4,Sales,Area Sales Manager,Fully Meets
+0,51.99999999999999,60,5068.6,1301,8,Female,2,Sales,Director of Sales,Fully Meets
+0,28,54,3857.266666666667,1301,16,Female,4,Sales,Sales Manager,Fully Meets
+1,28,60.25,3901.5333333333333,899,15,Female,4,Sales,Sales Manager,Fully Meets
+0,33,56,5931.733333333334,1288,19,Male,1,Sales,Sales Manager,Needs Improvement
+0,39,47.6,3725,1112,11,Female,4,Software Engineering,Software Engineer,Fully Meets
+0,31,56,7599.933333333333,1476,9,Female,4,Software Engineering,Software Engineer,90-day meets
+0,38,57.12,3318.2,2148,18,Female,4,Software Engineering,Software Engineer,90-day meets
+1,31,48.5,4137.866666666667,765,7,Female,2,Software Engineering,Software Engineer,Needs Improvement
+0,30,55.51,4436.066666666667,1476,4,Female,4,Software Engineering,Software Engineer,Fully Meets
+1,39,52.25,5367.466666666666,1400,5,Male,4,Software Engineering,Software Engineer,Exceeds
+0,31,49.25,3351.6,1847,13,Female,2,Software Engineering,Software Engineer,Fully Meets
+0,35,48,5660.2,1238,17,Male,4,Software Engineering,Software Engineer,Exceptional
+1,34,45.42,7148.4,421,7,Male,4,Software Engineering,Software Engineer,Fully Meets
+0,51,27,3891.4,2295,11,Male,4,Software Engineering,Software Engineering Manager,Fully Meets
+0,46,63.5,3676,446,7,Male,2,IT/IS,BI Director,Fully Meets
+0,30,50.25,3870.8,420,9,Female,4,IT/IS,Senior BI Developer,Fully Meets
+0,38,45,3981.866666666667,420,16,Female,2,IT/IS,BI Developer,Fully Meets
+0,45,55,4700.466666666666,323,7,Female,4,IT/IS,Data Architect,Fully Meets
+0,48,52.25,4029.733333333333,289,14,Male,4,IT/IS,Senior BI Developer,Fully Meets
+0,36,51,4392.866666666667,284,13,Male,4,IT/IS,Senior BI Developer,Fully Meets
+0,34,46,3234.2,284,4,Male,4,IT/IS,BI Developer,Fully Meets
+0,30,45,14696.666666666666,220,16,Male,2,IT/IS,BI Developer,Fully Meets
+0,28,45,5952.8,220,11,Male,2,IT/IS,BI Developer,Fully Meets
