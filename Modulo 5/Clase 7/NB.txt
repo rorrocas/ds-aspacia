@@ -1,0 +1,43 @@
+# Aquí te muestro un ejemplo utilizando MultinomialNB:
+
+from sklearn.naive_bayes import MultinomialNB
+
+# Definir los parámetros a probar
+param_grid = {
+    'alpha': [0.1, 1.0, 10.0],
+    'fit_prior': [True, False]
+}
+
+# Crear el modelo MultinomialNB
+nb = MultinomialNB()
+
+# Crear el objeto GridSearchCV
+grid_search = GridSearchCV(nb, param_grid, cv=10)
+
+# Ajustar el modelo utilizando los datos de entrenamiento escalados
+grid_search.fit(X_train_stand, y_train)
+
+# Obtener los mejores parámetros y el mejor modelo
+best_params = grid_search.best_params_
+best_model = grid_search.best_estimator_
+
+print("Mejores parámetros encontrados:", best_params)
+print()
+print("Mejor modelo:")
+print(best_model)
+
+# En este caso, se importa MultinomialNB del módulo sklearn.naive_bayes. Se define el diccionario param_grid con los parámetros que se desean probar: alpha y fit_prior. alpha es el parámetro de suavizado de Laplace y fit_prior indica si se deben ajustar las probabilidades previas.
+
+# Luego, se crea una instancia del clasificador MultinomialNB y se pasa al objeto GridSearchCV junto con el diccionario param_grid y el número de divisiones de la validación cruzada (cv=10).
+
+# Después de ajustar el modelo utilizando fit(), se obtienen los mejores parámetros y el mejor modelo de la misma manera que se mencionó anteriormente.
+
+# Puedes adaptar este código y probar con BernoulliNB u otros clasificadores Naive Bayes no gaussianos ajustando los parámetros y opciones según tus necesidades.
+
+# Aquí está la salida del código anterior utilizando el clasificador MultinomialNB:
+
+# Mejores parámetros encontrados: {'alpha': 0.1, 'fit_prior': True}
+
+# Mejor modelo:
+# MultinomialNB(alpha=0.1)
+# En este caso, la mejor combinación de parámetros encontrada por la búsqueda de cuadrícula (GridSearchCV) es alpha=0.1 y fit_prior=True para el clasificador MultinomialNB. El mejor modelo obtenido utiliza esos valores de parámetros.
