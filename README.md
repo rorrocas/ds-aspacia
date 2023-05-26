@@ -12,9 +12,6 @@ Modulo 5:
 Modulo 6:
 - Actividad 1,2,3 y final
 
-Modulo 7:
-- Actividad 1 y 2
-
 ### Distribucion normal estandar
 
 Es una distribucion 'normal' de valores estandarizados llamados puntuaciones **Z** esta se mide en unidades de la desviacion tipica.
