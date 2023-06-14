@@ -3,9 +3,6 @@ Repositorio con actividades y tareas del bootcamp data science de Talento Digita
 
 Faltan Ejercicios:
 
-Modulo 5:
-- Actividad final
-
 Modulo 6:
 - Actividad 1,2,3 y final
 
