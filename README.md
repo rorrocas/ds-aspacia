@@ -6,8 +6,8 @@ Faltan Ejercicios:
 Modulo 6:
 - Actividad 1,2,3 y final
 
-Modulo 7: 
-- Actividad final
+Modulo 8:
+- Actividad 1,2,3 y final
 
 ### Distribucion normal estandar
 
