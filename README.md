@@ -9,6 +9,25 @@ Modulo 6:
 Modulo 8:
 - Actividad 1,2,3 y final
 
+### Medidas numericas
+
+Para diferenciar entre media muestral y poblacional se usan los siguientes simbolos:
+
+- $\overline{x}$: Para la media muestral.
+- $\mu$: Para la media poblacional.
+
+Dentro de las medidas de variabilidad y sus simbolos encontramos los siguientes:
+
+- $R$: Rango, la diferencia entre el el mayor y menor valor del conjunto.
+- $s^{2}$: Varianza Muestral, es el promedio de la suma de los cuadrados de las desviaciones de los valores con respecto a la media muestral, dividido entre la cantidad de muestras menos 1.
+![image](https://github.com/rorrocas/ds-aspacia/assets/118536573/6686750a-e5ec-4e6b-bcab-ed3885ae809d)
+
+- $\sigma^{2}$: Varianza poblacional, es el promedio de la suma de los cuadrados de las desviaciones de los valores con respecto a la media poblacional, dividido entre la cantidad de mediciones.
+![image](https://github.com/rorrocas/ds-aspacia/assets/118536573/5a137b57-3ebd-4823-ad19-0ccd7cca0084)
+
+- 
+
+
 ### Distribucion normal estandar
 
 Es una distribucion 'normal' de valores estandarizados llamados puntuaciones **Z** esta se mide en unidades de la desviacion tipica.
