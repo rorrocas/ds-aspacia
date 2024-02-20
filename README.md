@@ -11,6 +11,8 @@ Modulo 8:
 
 ### Medidas numericas
 
+Las mediciones descriptivas numericas asociadas a una poblacion se denominan **parametros** mientras que las asociadas a una muestra se denominan **estadisticas**.
+
 Para diferenciar entre media muestral y poblacional se usan los siguientes simbolos:
 
 - $\overline{x}$: Para la **media muestral**.
