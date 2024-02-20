@@ -30,6 +30,7 @@ Dentro de las medidas de variabilidad y sus simbolos encontramos los siguientes:
 
 - La **Desviacion estandar** se obtiene con la raiz positiva de la varianza y esta esta expresada en la unidad de medida original a la variable.
 
+La finalidad de obtener la desviacion estandar es que la **varianza** esta en terminos del cuadrado de la unidad de la variable al obtener el **desviacion estandar** se obtiene un valor de variabilidad en la unidad de la variable a analizar.
 
 ### Distribucion normal estandar
 
