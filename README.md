@@ -119,6 +119,18 @@ Es un estadistico (estadistico: variable aleatoria funcion de las observaciones 
 - Desvio estandar muestral $s$ es un estimador del desvio estandar poblacional $\sigma$
 - Proporcion muestral $\hat{p}$
 
+**Distribucion de Poisson**
+
+**Distribucion binomial***
+
+Un experimento binomial consta de n intentos identicos con probabilidad p de exito en cada intento. La probabilidad de k exitos en n intentos es:
+
+### $P=(x = k) = C_{k}^{n}p^{k}q^{n-k} = \frac{n!}{k!(n-k)!}p^{k}q^{n-k}$
+
+
+
+**Distribucion hipergeometrica**
+
 **Estadistico de prueba**
 
 Es una variable aleatoria, de distribucion conocida y que vincula a un parametro de interes con un estimador de ese parametro.
