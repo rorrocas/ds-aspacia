@@ -122,12 +122,19 @@ Es un estadistico (estadistico: variable aleatoria funcion de las observaciones 
 **Distribucion de Poisson**
 
 **Distribucion binomial***
+Si el tamaño muestral es grande con respecto al poblacional en particular si n/N >= 0.05 entonces el experimento no es binomial.
 
 Un experimento binomial consta de n intentos identicos con probabilidad p de exito en cada intento. La probabilidad de k exitos en n intentos es:
 
 ### $P=(x = k) = C_{k}^{n}p^{k}q^{n-k} = \frac{n!}{k!(n-k)!}p^{k}q^{n-k}$
 
+La Media, Varianza y Desviacion estandar para la variable aleatoria binomial es:
 
+Media: $\mu = np$
+
+Varianza: $\sigma = npq$
+
+Desviacion estandar: $\mu = $
 
 **Distribucion hipergeometrica**
 
